@@ -15,13 +15,13 @@
 * 🔭 I’m currently working with **React, Next.js & TypeScript** for frontend development.
 * 🌱 I’m currently learning **Node.js, Express.js & MongoDB**.
 * 💬 Ask me about **Frontend ( JavaScript, React & Next.js )**.
-* 🌐 Explore My [**Portfolio**](https://rijon-protfolio.vercel.app/)
-* 📫 Reach me via [**Gmail**](mailto:rijonswarnaker@gmail.com)
+* 🌐 Explore My portfolio [**@rijon-swarnaker**](https://rijon-protfolio.vercel.app/)
+* 📫 How to reach me [**Gmail**](mailto:rijonswarnaker@gmail.com)
 
 
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="left ">
   <a href="https://twitter.com/@rijonswarnaker" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rijonswarnaker" height="30" width="40" />
   </a>
