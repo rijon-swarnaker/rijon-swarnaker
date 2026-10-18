@@ -15,7 +15,7 @@
 * 🔭 I’m currently working with **React, Next.js & TypeScript** for frontend development.
 * 🌱 I’m currently learning **Node.js, Express.js & MongoDB**.
 * 💬 Ask me about **Frontend ( JavaScript, React & Next.js )**.
-* 🌐 Explore My portfolio [**@rijon-swarnaker**](https://rijon-protfolio.vercel.app/)
+* 🌐 Explore My portfolio [**@rijon-swarnaker**](https://rijon-swarnaker.vercel.app/)
 * 📫 How to reach me [**Gmail**](mailto:rijonswarnaker@gmail.com)
 
 
