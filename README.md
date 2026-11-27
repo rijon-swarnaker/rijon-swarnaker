@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./Banner/Banner.png" alt="Rijon Chandra Swarnaker - MERN Stack Developer" width="100%" />
+  <img src="./Banner/Banner-1.png" alt="Rijon Chandra Swarnaker - MERN Stack Developer" width="100%" />
 </p>
 
 <!-- Animated Heading -->
